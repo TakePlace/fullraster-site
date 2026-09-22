@@ -20,7 +20,7 @@ export default function Header() {
           ))}
         </ul>
         <div className="nav-cta">
-          <a className="btn btn-orange" href="#area-cliente">
+          <a className="btn btn-orange" href="https://ap3.stc.srv.br/webcliente/fullraster" target="_blank" rel="noopener noreferrer">
             Área do Cliente
           </a>
         </div>
