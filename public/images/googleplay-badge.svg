@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <rect width="200" height="60" rx="8" fill="#111"/>
+  <polygon points="20,15 20,45 38,30" fill="#fff"/>
+  <text x="50" y="26" font-family="Arial, sans-serif" font-size="10" fill="#fff">DISPONÍVEL NO</text>
+  <text x="50" y="42" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#fff">Google Play</text>
+</svg>
